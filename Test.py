@@ -1,3 +1,1 @@
-print("Hello World!")
-print("Contributor1_Dyutiprovo")
-print("san")
+print("This is a beautiful world.")
